@@ -2,6 +2,7 @@
 A simple 2D shape modeler made using C++ and OpenGL.
 Shapes are made using a series of interconnected vertices that share edges.
 Shape modeler supports vertex translation, addition, and deletion, and allows one to save the shapes they design for later use.
+Before running this code, make sure to download and link the OpenGL Mathematics (glm) library to the project.
 
 Controls:
 To move a vertex, select and drag with the left mouse button.
